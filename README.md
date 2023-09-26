@@ -24,7 +24,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sathvik-ng-07&show_icons=true&locale=en" alt="sathvik-ng-07" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sathvik-ng-07&langs_count=8&layout=compact&border_radius=40&theme=radical&length=80)](https://github.com/sathvik-ng-07/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sathvik-ng-07&show_icons=true&locale=en&layout=compact" alt="sathvik-ng-07" /></p>
+
 
 
 
