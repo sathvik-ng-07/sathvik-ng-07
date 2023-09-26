@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Software Enthusiast from India</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sathvik-ng-07" alt="sathvik-ng-07" /></a> </p>
+
 
 - 🔭 I’m currently working on **Data Engineering**
 
