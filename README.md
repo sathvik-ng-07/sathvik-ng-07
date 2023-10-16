@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sathvik-n-g-195a2222a/) 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=java,python,sql,mysql,git,linux,numpy,pandas,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,mysql,git,linux,aws)](https://skillicons.dev)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sathvik-ng-07&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sathvik-ng-07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
