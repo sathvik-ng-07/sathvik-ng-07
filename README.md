@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Data Engineering<br><br>🌱 I’m currently learning Python,Java,SQL,AWS,Linux<br><br>👯 I’m looking to collaborate on Data Engineering,Warehousing,ETL,Cloud Projects<br><br>📫 How to reach me sathvikng56@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1P_dmNsHVPDnTaidAuMtmbiw9yEutMPfP/view?usp=drive_link
+🔭 I’m currently working on Data Sccience and Engineering<br><br>🌱 I’m currently learning Python,Java,SQL,AWS,Linux<br><br>👯 I’m looking to collaborate on Data Science, Data Engineering,ETL,Cloud Projects<br><br>📫 How to reach me sathvikng56@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1P_dmNsHVPDnTaidAuMtmbiw9yEutMPfP/view?usp=drive_link
 
 
 ## 🌐 Socials:
