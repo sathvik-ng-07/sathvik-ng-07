@@ -15,7 +15,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sathvik-ng-07&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sathvik-ng-07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-![Sathvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=sathvik-ng-07&show_icons=true&theme=dark&count_private=true&border_radius=50)<br/> 
+[![Sathvik N G's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=sathvikng07&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/sathvik-ng-07)
 
 
 ---
