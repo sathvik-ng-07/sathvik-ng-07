@@ -7,8 +7,6 @@
 🔭 I’m currently working on Data Sccience and Engineering<br><br>🌱 I’m currently learning Python,Java,SQL,AWS,Linux<br><br>👯 I’m looking to collaborate on Data Science, Data Engineering,ETL,Cloud Projects<br><br>📫 How to reach me sathvikng56@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1P_dmNsHVPDnTaidAuMtmbiw9yEutMPfP/view?usp=drive_link
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sathvik-n-g-195a2222a/) 
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=java,python,mysql,git,linux,kafka,postgresql,docker,ubuntu,opencv)](https://skillicons.dev)
