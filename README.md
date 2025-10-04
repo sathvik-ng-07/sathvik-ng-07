@@ -13,7 +13,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sathvik-ng-07&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats-three-phi-16.vercel.app/api/top-langs/?username=sathvik-ng-07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-![Sathvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=sathvik-ng-07&show_icons=true&theme=dark&count_private=true&border_radius=50)<br/> 
+![Sathvik's GitHub stats](https://github-readme-stats-three-phi-16.vercel.app/api?username=sathvik-ng-07&show_icons=true&theme=dark&count_private=true&border_radius=50)<br/> 
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
