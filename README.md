@@ -12,7 +12,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,python,mysql,git,linux,kafka,postgresql,docker,ubuntu,opencv)](https://skillicons.dev)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sathvik-ng-07&theme=dark&hide_border=false)<br/>
-![](github-readme-stats-three-phi-16.vercel.app/api/top-langs/?username=sathvik-ng-07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats-three-phi-16.vercel.app/api/top-langs/?username=sathvik-ng-07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ![Sathvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=sathvik-ng-07&show_icons=true&theme=dark&count_private=true&border_radius=50)<br/> 
 
 
